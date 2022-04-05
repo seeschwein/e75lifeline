@@ -1,0 +1,117 @@
+; Languages
+&EN
+
+; Package header
+#{"Networking improvements"}, (0x2003E456), 10, 1, 0, TYPE=SA, RU
+
+; Dependencies
+[0x20002D7C], 0, 0, 0, {"5700"}
+[0x20002D7B], 0, 0, 0, {"6110"}
+[0x20002D7E], 0, 0, 0, {"6120"}
+[0x2000DA55], 0, 0, 0, {"6124"}
+[0x20000606], 0, 0, 0, {"6290"}
+[0x20002498], 0, 0, 0, {"E51"}
+[0x200025C3], 0, 0, 0, {"E63"}
+[0x2000249C], 0, 0, 0, {"E66"}
+[0x2000249B], 0, 0, 0, {"E71"}
+[0x20002496], 0, 0, 0, {"E90"}
+[0x2000060A], 0, 0, 0, {"N76"}
+[0x20002D83], 0, 0, 0, {"N81"}
+[0x20002D85], 0, 0, 0, {"N82"}
+[0x2000060B], 0, 0, 0, {"N95"}
+[0x20002D84], 0, 0, 0, {"N95 8GB"}
+
+; Vendor names
+%{"Nokia"}
+:"Nokia"
+
+"c_Resource\Errors\sslerr.RSC"-"c:\Resource\Errors\sslerr.RSC"
+"c_sys\bin\TLSPROVIDER_NEW.DLL"-"c:\sys\bin\TLSPROVIDER_NEW.DLL"
+"c_sys\bin\TLSCACHESERVER.EXE"-"c:\sys\bin\TLSCACHESERVER.EXE"
+"c_resource\TlsCacheServer\TlsCacheTimeouts.RSC"-"c:\resource\TlsCacheServer\TlsCacheTimeouts.RSC"
+"c_sys\bin\SWTLSTOKENTYPEPLUGIN.DLL"-"c:\sys\bin\SWTLSTOKENTYPEPLUGIN.DLL"
+"c_resource\plugins\swtlstokentypeplugin.rsc"-"c:\resource\plugins\swtlstokentypeplugin.rsc"
+"c_sys\bin\PKIXCERT_NEW.DLL"-"c:\sys\bin\PKIXCERT_NEW.DLL"
+"c_sys\bin\PKIXCERTBASE_NEW.DLL"-"c:\sys\bin\PKIXCERTBASE_NEW.DLL"
+"c_sys\bin\CERTSTORE_NEW.DLL"-"c:\sys\bin\CERTSTORE_NEW.DLL"
+"c_sys\bin\ASN1_NEW.DLL"-"c:\sys\bin\ASN1_NEW.DLL"
+"c_sys\bin\CRYPTO_NEW.DLL"-"c:\sys\bin\CRYPTO_NEW.DLL"
+"c_sys\bin\HASH_NEW.DLL"-"c:\sys\bin\HASH_NEW.DLL"
+"c_sys\bin\X509_NEW.DLL"-"c:\sys\bin\X509_NEW.DLL"
+"c_sys\bin\reccert.dll"-"c:\sys\bin\reccert.dll"
+"c_resource\plugins\reccert.rsc"-"c:\resource\plugins\reccert.rsc"
+"c_sys\bin\X509CertNameParser_new.dll"-"c:\sys\bin\X509CertNameParser_new.dll"
+"c_sys\bin\CertSaver_new.exe"-"c:\sys\bin\CertSaver_new.exe"
+"c_Private\10003a3f\import\apps\CERTSAVER_NEW_reg.rsc"-"c:\Private\10003a3f\import\apps\CERTSAVER_NEW_reg.rsc"
+"c_Resource\apps\CERTSAVER_NEW.rsc"-"c:\Resource\apps\CERTSAVER_NEW.rsc"
+"c_Resource\apps\CertSaver_new.r01"-"c:\Resource\apps\CertSaver_new.r01"
+"c_Resource\apps\CertSaver_new.r02"-"c:\Resource\apps\CertSaver_new.r02"
+"c_Resource\apps\CertSaver_new.r03"-"c:\Resource\apps\CertSaver_new.r03"
+"c_Resource\apps\CertSaver_new.r04"-"c:\Resource\apps\CertSaver_new.r04"
+"c_Resource\apps\CertSaver_new.r05"-"c:\Resource\apps\CertSaver_new.r05"
+"c_Resource\apps\CertSaver_new.r06"-"c:\Resource\apps\CertSaver_new.r06"
+"c_Resource\apps\CertSaver_new.r07"-"c:\Resource\apps\CertSaver_new.r07"
+"c_Resource\apps\CertSaver_new.r08"-"c:\Resource\apps\CertSaver_new.r08"
+"c_Resource\apps\CertSaver_new.r09"-"c:\Resource\apps\CertSaver_new.r09"
+"c_Resource\apps\CertSaver_new.r10"-"c:\Resource\apps\CertSaver_new.r10"
+"c_Resource\apps\CertSaver_new.r129"-"c:\Resource\apps\CertSaver_new.r129"
+"c_Resource\apps\CertSaver_new.r13"-"c:\Resource\apps\CertSaver_new.r13"
+"c_Resource\apps\CertSaver_new.r14"-"c:\Resource\apps\CertSaver_new.r14"
+"c_Resource\apps\CertSaver_new.r15"-"c:\Resource\apps\CertSaver_new.r15"
+"c_Resource\apps\CertSaver_new.r157"-"c:\Resource\apps\CertSaver_new.r157"
+"c_Resource\apps\CertSaver_new.r158"-"c:\Resource\apps\CertSaver_new.r158"
+"c_Resource\apps\CertSaver_new.r159"-"c:\Resource\apps\CertSaver_new.r159"
+"c_Resource\apps\CertSaver_new.r16"-"c:\Resource\apps\CertSaver_new.r16"
+"c_Resource\apps\CertSaver_new.r161"-"c:\Resource\apps\CertSaver_new.r161"
+"c_Resource\apps\CertSaver_new.r17"-"c:\Resource\apps\CertSaver_new.r17"
+"c_Resource\apps\CertSaver_new.r18"-"c:\Resource\apps\CertSaver_new.r18"
+"c_Resource\apps\CertSaver_new.r25"-"c:\Resource\apps\CertSaver_new.r25"
+"c_Resource\apps\CertSaver_new.r26"-"c:\Resource\apps\CertSaver_new.r26"
+"c_Resource\apps\CertSaver_new.r27"-"c:\Resource\apps\CertSaver_new.r27"
+"c_Resource\apps\CertSaver_new.r28"-"c:\Resource\apps\CertSaver_new.r28"
+"c_Resource\apps\CertSaver_new.r29"-"c:\Resource\apps\CertSaver_new.r29"
+"c_Resource\apps\CertSaver_new.r30"-"c:\Resource\apps\CertSaver_new.r30"
+"c_Resource\apps\CertSaver_new.r31"-"c:\Resource\apps\CertSaver_new.r31"
+"c_Resource\apps\CertSaver_new.r326"-"c:\Resource\apps\CertSaver_new.r326"
+"c_Resource\apps\CertSaver_new.r327"-"c:\Resource\apps\CertSaver_new.r327"
+"c_Resource\apps\CertSaver_new.r33"-"c:\Resource\apps\CertSaver_new.r33"
+"c_Resource\apps\CertSaver_new.r37"-"c:\Resource\apps\CertSaver_new.r37"
+"c_Resource\apps\CertSaver_new.r39"-"c:\Resource\apps\CertSaver_new.r39"
+"c_Resource\apps\CertSaver_new.r401"-"c:\Resource\apps\CertSaver_new.r401"
+"c_Resource\apps\CertSaver_new.r402"-"c:\Resource\apps\CertSaver_new.r402"
+"c_Resource\apps\CertSaver_new.r42"-"c:\Resource\apps\CertSaver_new.r42"
+"c_Resource\apps\CertSaver_new.r44"-"c:\Resource\apps\CertSaver_new.r44"
+"c_Resource\apps\CertSaver_new.r45"-"c:\Resource\apps\CertSaver_new.r45"
+"c_Resource\apps\CertSaver_new.r49"-"c:\Resource\apps\CertSaver_new.r49"
+"c_Resource\apps\CertSaver_new.r50"-"c:\Resource\apps\CertSaver_new.r50"
+"c_Resource\apps\CertSaver_new.r51"-"c:\Resource\apps\CertSaver_new.r51"
+"c_Resource\apps\CertSaver_new.r54"-"c:\Resource\apps\CertSaver_new.r54"
+"c_Resource\apps\CertSaver_new.r57"-"c:\Resource\apps\CertSaver_new.r57"
+"c_Resource\apps\CertSaver_new.r59"-"c:\Resource\apps\CertSaver_new.r59"
+"c_Resource\apps\CertSaver_new.r67"-"c:\Resource\apps\CertSaver_new.r67"
+"c_Resource\apps\CertSaver_new.r68"-"c:\Resource\apps\CertSaver_new.r68"
+"c_Resource\apps\CertSaver_new.r70"-"c:\Resource\apps\CertSaver_new.r70"
+"c_Resource\apps\CertSaver_new.r76"-"c:\Resource\apps\CertSaver_new.r76"
+"c_Resource\apps\CertSaver_new.r78"-"c:\Resource\apps\CertSaver_new.r78"
+"c_Resource\apps\CertSaver_new.r79"-"c:\Resource\apps\CertSaver_new.r79"
+"c_Resource\apps\CertSaver_new.r83"-"c:\Resource\apps\CertSaver_new.r83"
+"c_Resource\apps\CertSaver_new.r93"-"c:\Resource\apps\CertSaver_new.r93"
+"c_Resource\apps\CertSaver_new.r94"-"c:\Resource\apps\CertSaver_new.r94"
+"c_Resource\apps\CertSaver_new.r96"-"c:\Resource\apps\CertSaver_new.r96"
+"c_sys\bin\CTFRAMEWORK_NEW.DLL"-"c:\sys\bin\CTFRAMEWORK_NEW.DLL"
+"c_sys\bin\CTSECDIALOGIMPL_NEW.DLL"-"c:\sys\bin\CTSECDIALOGIMPL_NEW.DLL"
+"c_sys\bin\CTSECDLGNOTIFIER_NEW.DLL"-"c:\sys\bin\CTSECDLGNOTIFIER_NEW.DLL"
+"c_sys\bin\CTSECDLGS_NEW.DLL"-"c:\sys\bin\CTSECDLGS_NEW.DLL"
+"c_resource\plugins\ctsecdlgnotifier_new.rsc"-"c:\resource\plugins\ctsecdlgnotifier_new.rsc"
+"c_sys\bin\CertManUi.dll"-"c:\sys\bin\CertManUi.dll"
+"c_resource\plugins\CertManUI.rsc"-"c:\resource\plugins\CertManUI.rsc"
+"c_sys\bin\DEVTOKENSERVER.EXE"-"c:\sys\bin\DEVTOKENSERVER.EXE"
+"c_sys\bin\DEVTOKENCLIENT_NEW.DLL"-"c:\sys\bin\DEVTOKENCLIENT_NEW.DLL"
+"c_resource\plugins\DevSrvCertStore.rsc"-"c:\resource\plugins\DevSrvCertStore.rsc"
+"c_sys\bin\DevSrvCertStore.dll"-"c:\sys\bin\DevSrvCertStore.dll"
+"c_sys\bin\netms1.DLL"-"c:\sys\bin\netms1.DLL"
+IF EXISTS("z:\system\install\Series60v3.1.sis")
+   "z_sys\bin\SSL.DLL"-"c:\sys\bin\SSL.DLL"
+ELSE
+   "z_sys\bin\SSL.DLL"-"z:\sys\bin\SSL.DLL"
+ENDIF
