@@ -1,0 +1,3 @@
+;Change E75 machineUID
+;by somin.n
+SnR:sys\bin\hal.dll:9D240020:CF4D0120
